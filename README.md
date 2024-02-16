@@ -1,4 +1,4 @@
-# FlyMe_Mobile_Application
+# FlyMe_App
 
 ## Description
 
